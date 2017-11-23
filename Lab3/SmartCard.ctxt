@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=SmartCard
+comment1.params=name
+comment1.target=SmartCard(java.lang.String)
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ SmartCard\n
+comment2.params=
+comment2.target=java.lang.String\ getOwner()
+comment3.params=
+comment3.target=boolean\ isStaff()
+comment4.params=valueInput
+comment4.target=void\ setStaff(boolean)
+numComments=5
